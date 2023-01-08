@@ -1,4 +1,5 @@
-*.exe
+Test.exe
+Test.c
 *.out
 *.xlsx
 *.zip
