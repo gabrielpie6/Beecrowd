@@ -2,3 +2,5 @@ Test.*
 *.out
 *.xlsx
 *.zip
+*.class
+*.exe
